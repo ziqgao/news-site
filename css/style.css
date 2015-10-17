@@ -7,11 +7,13 @@ h1{
 	color:white;
 	font-size:38px;
 	font-family:bold 700;
+	text-align:center;
 }
 .nav{
 	color:blue;
 	font-size:18px;
 	font-family: sans-serif;
+	text-align:center;
 
 }
 .adbox{
