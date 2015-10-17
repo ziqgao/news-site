@@ -1,0 +1,45 @@
+.header {
+	background-color: black;
+
+	padding:48px;
+}
+h1{
+	color:white;
+	font-size:38px;
+	font-family:bold 700;
+}
+.nav{
+	color:blue;
+	font-size:18px;
+	font-family: sans-serif;
+
+}
+.adbox{
+	background-color: blue;
+	padding:28px;
+}
+.kicker{
+	color:grey;
+	font-family: sans-serif;
+}
+h2{
+	font-size: 30px;
+	font-family: bold 700;
+}
+.byline{
+	color:grey;
+	font-family: normal 400;
+	font-size: 14px;
+
+}
+.caption{
+	color:grey;
+	font-size: 14px;
+	font-family: normal 400;
+	display 
+}
+h3{
+	padding-left: 18px;
+	font-size: 20px;
+}
+
